@@ -1,6 +1,6 @@
 ## Search and Find Brackets 
 
-#Aim of Project 
+# Aim of Project 
 
 Finding of open or closed brackets (or some words)
 
