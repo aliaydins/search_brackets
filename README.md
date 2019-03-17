@@ -1,2 +1,5 @@
-# search_brackets
-C++/C
+## search and find brackets 
+
+# Aim of Project 
+
+
